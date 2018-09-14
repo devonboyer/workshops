@@ -57,7 +57,7 @@ Swift is an open-source, compiled, type-safe language developed by Apple to repl
 
 > Industry Fact: The Shopify mobile app was re-written entirely in Swift in 2016.
 
-Swift has a lot of syntactic sugar for working with optionals (more on this later), generics, protocols and preventing many levels of indentation. We are going to focus on writing Swift with a C-style syntax instead of using "idomatic" Swift patterns, which are very powerful but take practice to understand and master.
+Swift has a lot of syntactic sugar for working with optionals (more on this later), generics, protocols and preventing many levels of indentation. We are going to focus on writing Swift with an Objective-C style syntax instead of using "idomatic" Swift patterns, which are very powerful but take practice to understand and master.
 
 <sup>
 <strong>References</strong><br>
