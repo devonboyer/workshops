@@ -30,7 +30,6 @@ class GitHubReposViewController: UITableViewController {
         
         // Configure the table view
         tableView.register(GitHubRepoTableViewCell.self, forCellReuseIdentifier: "GitHubRepo")
-        tableView.tableFooterView = UIView() // trick to hide separators for empty table view
     }
     
     override func viewDidLoad() {
